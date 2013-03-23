@@ -1,0 +1,129 @@
+@font-face {
+  font-family: xcxxx;
+  font-style: normal;
+  src: url("../fonts/Avenir.ttc");
+}
+body {
+  color: #fff;
+  font-family: Helvetica;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+.header {
+  z-index: 1;
+  position: relative;
+  background: #65a73d;
+  font-weight: 900;
+  font-size: 18pt;
+  text-shadow: 0 2px 2px #000;
+  box-shadow: 0 0 10px #000;
+  height: 150px;
+}
+.header .titles {
+  padding: 43px;
+  line-height: 133%;
+  position: absolute;
+}
+.header .subtitle {
+  font-weight: 400;
+  font-style: italic;
+  text-shadow: none;
+}
+.header ul {
+  list-style: none;
+  float: right;
+  padding: 0;
+  margin: 0;
+}
+.header ul li {
+  display: inline-block;
+  margin: 0 18px;
+  font-size: 14pt;
+  line-height: 150px;
+}
+.slider {
+  position: absolute;
+  top: 0;
+  bottom: 200px;
+}
+.slider .slide {
+  margin: 100px;
+}
+.slider .arrow {
+  position: absolute;
+  top: 50%;
+  bottom: 0;
+  margin-bottom: -25px;
+  font-size: 50px;
+  height: 50px;
+  width: 100px;
+  text-align: center;
+  display: table-cell;
+}
+.slider .arrow.left {
+  left: 0;
+}
+.slider .arrow.right {
+  right: 0;
+}
+.footer {
+  background: #65a73d;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  height: 200px;
+}
+.footer .unit {
+  padding: 6px;
+  margin: 0 12px;
+  display: inline-block;
+  width: 200px;
+}
+.footer .unit .pic {
+  width: 200px;
+  height: 100px;
+}
+.footer .unit .desc {
+  font-size: 10pt;
+}
+[ng-view] {
+  background: url("../img/image.png");
+  position: absolute;
+  top: 150px;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+.events-page {
+  width: 33%;
+  min-width: 300px;
+  background: rgba(0,0,0,0.33);
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.events-page .rooms {
+  padding: 12px 0;
+  margin: 0;
+  background: rgba(0,0,0,0.33);
+}
+.events-page .room {
+  width: 33%;
+  list-style-type: none;
+  display: inline-block;
+  padding: 0;
+  text-align: center;
+  text-decoration: underline;
+}
+.events-page table {
+  margin: 12px;
+}
+.events-page table td {
+  vertical-align: baseline;
+  padding: 6px;
+}

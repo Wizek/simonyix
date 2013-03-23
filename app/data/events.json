@@ -1,0 +1,25 @@
+{ "Kisterem":
+  [ { "time": "12:00"
+    , "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur nostrum totam cumque quos ipsam eum eveniet quae dolores voluptas consequuntur inventore ab repellendus et iusto vel obcaecati animi asperiores dolore."
+    }
+  , { "time": "12:00"
+    , "desc": "asdasadsadsdasdad"
+    }
+  ]
+, "Nagyterem":
+  [ { "time": "11:11"
+    , "desc": "asdasdasd"
+    }
+  , { "time": "33:33"
+    , "desc": "asdasadsadsdasdad"
+    }
+  , { "time": "33:33"
+    , "desc": "asdasadsadsdasdad"
+    }
+  ]
+, "Terem":
+  [ { "time": "11:11"
+    , "desc": "asdasdasd"
+    }
+  ]
+}

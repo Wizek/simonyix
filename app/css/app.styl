@@ -1,0 +1,123 @@
+@font-face
+  font-family xcxxx
+  font-style normal
+  src url('../fonts/Avenir.ttc')
+
+body
+  color white
+  font-family Helvetica
+  // font-family xcxxx, serif
+
+$green = #65a73d
+$header-height = 150px
+a
+  color white
+  text-decoration: none
+
+.header
+  z-index 1
+  position: relative
+  background $green
+  font-weight 900
+  font-size 18pt
+  text-shadow 0 2px 2px black
+  box-shadow 0 0 10px black
+  height $header-height
+
+  .titles
+    padding 43px
+    line-height 133%
+    position: absolute
+  .subtitle
+    font-weight 400
+    font-style italic
+    text-shadow none
+  ul
+    list-style none
+    float right
+    padding 0
+    margin 0
+    li
+      display inline-block
+      margin 0 18px
+      font-size 14pt
+      line-height $header-height
+
+.slider
+  position: absolute
+  top 0
+  bottom 200px
+
+  .slide
+    margin 100px
+  .arrow
+    $height = 50px
+    position: absolute
+    top 50%
+    bottom 0
+    margin-bottom -0.5 * $height
+    font-size $height
+    height $height
+    width 100px
+    text-align center
+    display table-cell
+    &.left
+      left 0
+    &.right
+      right 0
+
+.footer
+  background $green
+  position: absolute
+  bottom 0
+  left 0
+  right 0
+  text-align center
+  height 200px
+  .unit
+    .pic
+      width 200px
+      height 100px
+    .desc
+      font-size 10pt
+    padding 6px
+    margin 0 12px
+    display inline-block
+    width 200px
+    // height 200px
+
+[ng-view]
+  background url('../img/image.png')
+  position absolute
+  top $header-height
+  bottom 0
+  right 0
+  left 0
+
+.events-page
+  .rooms
+    padding 12px 0
+    margin 0
+    background rgba(0,0,0,.33)
+  .room
+    width 33%
+    list-style-type none
+    display inline-block
+    padding 0
+    text-align: center
+    text-decoration underline
+
+  width 33%
+  min-width 300px
+  // height 10000px
+  background rgba(0,0,0,.33)
+  position absolute
+  // top $header-height
+  top 0
+  right 0
+  bottom 0
+  table
+    margin 12px
+    td
+      vertical-align baseline
+      padding 6px

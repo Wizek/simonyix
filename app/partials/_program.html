@@ -1,0 +1,15 @@
+<div class="events-page">
+  <ul class="rooms">
+    <li class="room" ng-repeat="(eventType, room) in events">
+      <a href="" ng-click="selected.name = eventType">{{eventType}}</a>
+    </li>
+  </ul>
+  <table ng-repeat="(eventType, room) in events" ng-show="eventType == selected.name">
+    <tr ng-repeat="event in room">
+      <td>
+         <b>{{event.time}}</b>
+      </td>
+      <td>{{event.desc}}</td>
+    </tr>
+  </table>
+</div>

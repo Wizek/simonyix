@@ -1,0 +1,1313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"pos:r	position:relative"
+			],
+			[
+				"ta",
+				"ta:c	text-align:center"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"d",
+				"d:i	display:inline"
+			],
+			[
+				"pr",
+				"pos:r	position:relative"
+			],
+			[
+				"ls",
+				"lis	list-style"
+			],
+			[
+				"cont",
+				"content-fixwidth"
+			],
+			[
+				"cac",
+				"cachedGetFileFor"
+			],
+			[
+				"cach",
+				"cachedGetFileFor"
+			],
+			[
+				"get",
+				"getCache"
+			],
+			[
+				"h",
+				"hdoc	HereDoc in js"
+			],
+			[
+				"de",
+				"des	describe"
+			],
+			[
+				"res",
+				"replaceStr"
+			],
+			[
+				"ma",
+				"match"
+			],
+			[
+				"pro",
+				"protocol"
+			],
+			[
+				"a",
+				"afactory	angular factory"
+			],
+			[
+				"req",
+				"requestPapi"
+			],
+			[
+				"m",
+				"mockHttpReturns"
+			],
+			[
+				"ge",
+				"getWithDeps"
+			],
+			[
+				"moc",
+				"mockRequestResponse"
+			],
+			[
+				"sp",
+				"sourceParser"
+			],
+			[
+				"mo",
+				"mockRequest"
+			],
+			[
+				"mock",
+				"mockRequestResponse"
+			],
+			[
+				"torw",
+				"toResolveWith"
+			],
+			[
+				"bef",
+				"bef	before each"
+			],
+			[
+				"tr",
+				"toRejectWith"
+			],
+			[
+				"tore",
+				"toRejectWith"
+			],
+			[
+				"cb",
+				"cbApi"
+			],
+			[
+				"prom",
+				"promise"
+			],
+			[
+				"parse",
+				"parsedName"
+			],
+			[
+				"it",
+				"it	BDD it"
+			],
+			[
+				"desc",
+				"describe"
+			],
+			[
+				"mod",
+				"module"
+			],
+			[
+				"be",
+				"beforeEach"
+			],
+			[
+				"rec",
+				"recurse"
+			],
+			[
+				"wa",
+				"walkTreeFactory"
+			],
+			[
+				"w",
+				"walkTree"
+			],
+			[
+				"inj",
+				"inject"
+			],
+			[
+				"g",
+				"getDepsRoute"
+			],
+			[
+				"Depe",
+				"dependenciesOf"
+			],
+			[
+				"in",
+				"inject"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"np",
+				"nameParser"
+			],
+			[
+				"if",
+				"ifPattern"
+			],
+			[
+				"inje",
+				"injectInto"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"pars",
+				"nameParser"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"log",
+				"logFactory"
+			],
+			[
+				"source",
+				"sourceParser"
+			],
+			[
+				"hd",
+				"hereDoc"
+			],
+			[
+				"then",
+				"toThenEqual"
+			],
+			[
+				"on",
+				"onNextTick"
+			],
+			[
+				"read",
+				"readFile"
+			],
+			[
+				"des",
+				"desc	BDD describe"
+			],
+			[
+				"for",
+				"for	key in Object"
+			],
+			[
+				"name",
+				"nameParser"
+			],
+			[
+				"s",
+				"sourceParser"
+			],
+			[
+				"return",
+				"return"
+			],
+			[
+				"nio",
+				"normalizeIndentation"
+			],
+			[
+				"here",
+				"hereDoc"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"is",
+				"isFunction"
+			],
+			[
+				"to",
+				"toBe"
+			],
+			[
+				"dependen",
+				"dependenciesOf"
+			],
+			[
+				"cha",
+				"charSplit"
+			],
+			[
+				"str",
+				"start"
+			],
+			[
+				"bac",
+				"backbone"
+			],
+			[
+				"else",
+				"elseFn"
+			],
+			[
+				"el",
+				"elseVal"
+			],
+			[
+				"start",
+				"startFrom"
+			],
+			[
+				"last",
+				"_lastValue"
+			],
+			[
+				"ti",
+				"ticker"
+			],
+			[
+				"time",
+				"timeFunction"
+			],
+			[
+				"t",
+				"ticker"
+			],
+			[
+				"pas",
+				"pausedAt"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"root",
+				"rootScope"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"dr",
+				"DIR"
+			],
+			[
+				"fa",
+				"fallAsleep"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"x",
+				"x2"
+			],
+			[
+				"so",
+				"source"
+			],
+			[
+				"pla",
+				"playSound"
+			],
+			[
+				"load",
+				"loadSound"
+			],
+			[
+				"upt",
+				"uptillsq"
+			],
+			[
+				"sigma2",
+				"sigma2"
+			],
+			[
+				"divi",
+				"dividableBy"
+			],
+			[
+				"di",
+				"dividableBy"
+			],
+			[
+				"sum",
+				"sumPow"
+			],
+			[
+				"clea",
+				"cleanseCompounds"
+			],
+			[
+				"main",
+				"mainCtrl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 982,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/app.js",
+			"settings":
+			{
+				"buffer_size": 1053,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/partials/_fooldal.html",
+			"settings":
+			{
+				"buffer_size": 290,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/partials/_program.html",
+			"settings":
+			{
+				"buffer_size": 433,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/partials/_helyszin.html",
+			"settings":
+			{
+				"buffer_size": 18,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/css/app.styl",
+			"settings":
+			{
+				"buffer_size": 1047,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/data/events.json",
+			"settings":
+			{
+				"buffer_size": 611,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/wizek/haskell/oroklodes.hs",
+			"settings":
+			{
+				"buffer_size": 434,
+				"line_ending": "Unix",
+				"name": "module Main where"
+			}
+		},
+		{
+			"file": "app/partials/_kapcsolat.html",
+			"settings":
+			{
+				"buffer_size": 18,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/jasmine-node.sublime-build",
+	"command_palette":
+	{
+		"height": 138.0,
+		"selected_items":
+		[
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ssja",
+				"Set Syntax: Jade"
+			],
+			[
+				"mar",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippet",
+				"Snippet: expect"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"mark",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"gash",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"git:",
+				"Git: Commit"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"ssgi",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"gitg",
+				"Package Control: List Packages"
+			],
+			[
+				"gi",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"rena",
+				"Emmet: Rename Tag"
+			],
+			[
+				"emmet rename",
+				"Emmet: Rename Tag"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"markdown",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"md:",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"ssmd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markd",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"sshas",
+				"Set Syntax: Haskell"
+			],
+			[
+				"ssru",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/wizek/sandbox/simonyix/app/css/normalize.css",
+		"/home/wizek/sandbox/simonyix/app/partials/_kapcsolat.html",
+		"/home/wizek/sandbox/loader/views/doc.jade",
+		"/home/wizek/sandbox/loader/node_modules/stylus/bin/stylus",
+		"/home/wizek/sandbox/loader-deploy/node_modules/express/lib/application.js",
+		"/home/wizek/sandbox/loader/spec/parsing.spec.js",
+		"/home/wizek/sandbox/loader/spec/memCache.spec.js",
+		"/usr/lib/node_modules/jasmine-node/lib/jasmine-node/cli.js",
+		"/home/wizek/sandbox/loader/spec/main.spec.js",
+		"/home/wizek/sandbox/loader/README.md",
+		"/home/wizek/sandbox/loader/lib/main.js",
+		"/home/wizek/sandbox/loader/lib/modules.js",
+		"/home/wizek/sandbox/loader/lib/memCache.js",
+		"/home/wizek/sandbox/loader/lib/routes.js",
+		"/home/wizek/sandbox/loader/views/index.jade",
+		"/home/wizek/sandbox/loader/lib/expressApp.js",
+		"/home/wizek/sandbox/loader/spec/misc.spec.js",
+		"/home/wizek/sandbox/loader/spec/_init.spec.js",
+		"/home/wizek/sandbox/loader/package.json",
+		"/home/wizek/sandbox/loader/node_modules/ng-di/dist/ng-di-mocks.js",
+		"/home/wizek/.config/sublime-text-2/Packages/User/jasmine-node.sublime-build",
+		"/usr/local/bin/memsum",
+		"/home/wizek/sandbox/loader/lib/utils.js",
+		"/home/wizek/sandbox/loader/packages/f1.js",
+		"/home/wizek/sandbox/loader/packages/f2.js",
+		"/home/wizek/sandbox/loader/package",
+		"/home/wizek/.sublime/history/home/wizek/sandbox/loader/lib/2013-03-10_22.19.05.modules.js",
+		"/home/wizek/.sublime/history/home/wizek/sandbox/loader/lib/2013-03-11_22.40.52.modules.js",
+		"/home/wizek/.sublime/history/home/wizek/sandbox/loader/lib/2013-03-10_19.43.31.modules.js",
+		"/home/wizek/sandbox/loader/.git/config",
+		"/home/wizek/sandbox/loader/spec/getWithDeps.spec.js",
+		"/home/wizek/sandbox/loader/packages/f1.js~",
+		"/home/wizek/sandbox/loader/node_modules/ng-di/dist/ng-di.js",
+		"/usr/lib/node_modules/jasmine-node/lib/jasmine-node/index.js",
+		"/home/wizek/sandbox/loader/spec/protocol_http.spec.js",
+		"/home/wizek/.sublime/history/home/wizek/sandbox/loader/spec/2013-03-08_21.38.48.protocol_http.spec.js",
+		"/home/wizek/.config/sublime-text-2/Packages/User/",
+		"/home/wizek/sandbox/loader/asdasd",
+		"/home/wizek/sandbox/loader/spec/test (/home/wizek/sandbox/loader/spec/parsing.spec.js",
+		"/home/wizek/sandbox/loader/spec/s",
+		"/home/wizek/sandbox/loader/spec/module.js",
+		"/home/wizek/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/wizek/sandbox/loader/examples/demo.html",
+		"/home/wizek/sandbox/loader/examples/style.css",
+		"/home/wizek/.config/sublime-text-2/Packages/User/    at null.<anonymous> ",
+		"/home/wizek/.config/sublime-text-2/Packages/User/    at new jasmine.ExpectationResult ",
+		"/usr/lib/node_modules/jasmine-node/lib/jasmine-node/jasmine-1.3.1.js",
+		"/home/wizek/sandbox/loader/spec/test_spec.js",
+		"/home/wizek/.config/sublime-text-2/Packages/User/testacular.sublime-build",
+		"/home/wizek/.config/sublime-text-2/Packages/User/timers.js",
+		"/home/wizek/sandbox/loader/spec/test_spec.js:92",
+		"/usr/lib/node_modules/jasmine-node/lib/jasmine-node/jasmine-1.3.1.js:114",
+		"/home/wizek/sandbox/wreq/wreq.js",
+		"/home/wizek/.gitconfig",
+		"/home/wizek/sandbox/loader-deploy/packages/f2.js",
+		"/home/wizek/sandbox/loader-deploy/packages/f1.js",
+		"/home/wizek/sandbox/ng-di/dist/ng-di.js",
+		"/home/wizek/sandbox/loader/lib/nodeApi.js",
+		"/home/wizek/sandbox/loader-deploy/packages/backbone.js",
+		"/home/wizek/sandbox/loader-deploy/packages/jquery-ui.js",
+		"/home/wizek/sandbox/loader-deploy/packages/angular-ui.js",
+		"/home/wizek/sandbox/loader-deploy/lib/expressApp.js",
+		"/home/wizek/sandbox/loader-deploy/lib/main.js",
+		"/home/wizek/.bashrc",
+		"/home/wizek/sandbox/loader/index.js",
+		"/home/wizek/.config/sublime-text-2/Packages/Markdown Preview/github.css",
+		"/home/wizek/.config/sublime-text-2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/home/wizek/.config/sublime-text-2/Packages/GitGutter/README.md",
+		"/home/wizek/Desktop/smartgithg-4_0_3/bin/add-menuitem.sh",
+		"/home/wizek/Desktop/smartgithg-4_0_3/bin/syntevo-smartgithg.desktop",
+		"/home/wizek/sandbox/exo-component/index.html",
+		"/home/wizek/sandbox/ticker/app/index.html",
+		"/home/wizek/sandbox/loader-deploy/.bg",
+		"/home/wizek/.config/sublime-text-2/Packages/Markdown Preview/sample.md",
+		"/home/wizek/.config/sublime-text-2/Packages/User/MarkdownPreview.sublime-settings",
+		"/home/wizek/sandbox/exo-component/components/xxx/index.js",
+		"/home/wizek/.sublime/history/home/wizek/.config/sublime-text-2/Packages/Markdown Preview/Feb.21.2013_10.05.45.github.css",
+		"/home/wizek/sandbox/loader/packages/c.js",
+		"/home/wizek/sandbox/loader/packages/angular.js",
+		"/home/wizek/sandbox/loader/node_modules/ng-di/node_modules/jasmine-node/lib/jasmine-node/jasmine-1.3.1.js",
+		"/home/wizek/sandbox/ticker/app/scripts/vendor/angular.js",
+		"/home/wizek/sandbox/ticker/test/spec/controllers/main.js",
+		"/home/wizek/sandbox/loader/repo/ticker/index.js",
+		"/home/wizek/sandbox/loader/test.html",
+		"/home/wizek/sandbox/loader/packages/ticker.js",
+		"/usr/lib/git-core/git-difftool",
+		"/usr/local/bin/bc3.sh",
+		"/home/wizek/sandbox/loader/app.js",
+		"/home/wizek/sandbox/ng-di/lib/ng-di-mocks.js",
+		"/home/wizek/sandbox/loader/.gitignore",
+		"/home/wizek/sandbox/ticker/testacular.conf.js",
+		"/home/wizek/.config/sublime-text-2/Packages/User/JavaScript snipets/hdoc.sublime-snippet",
+		"/home/wizek/.config/sublime-text-2/Packages/User/JavaScript snipets/angular factory.sublime-snippet",
+		"/home/wizek/.config/sublime-text-2/Packages/User/JavaScript snipets/BDD describe.sublime-snippet",
+		"/home/wizek/sandbox/ng_q.html",
+		"/home/wizek/Desktop/0001-Experiment-with-mocha.patch",
+		"/home/wizek/sandbox/loader/tests.html",
+		"/home/wizek/sandbox/loader/packages/ifPattern.js",
+		"/home/wizek/sandbox/loader/lib/node_utils.js",
+		"/home/wizek/sandbox/loader/utils.js",
+		"/usr/bin/notify-send",
+		"/home/wizek/sandbox/loader/test.js",
+		"/home/wizek/haskell/loader.hs",
+		"/home/wizek/sandbox/ticker/test/vendor/angular-mocks.js",
+		"/home/wizek/.pulse/client.conf",
+		"/home/wizek/sandbox/loader/spec/test.spec.js",
+		"/home/wizek/sandbox/loader/inspirations.md",
+		"/home/wizek/Desktop/FTL (copy).desktop",
+		"/home/wizek/sandbox/loader/main.js",
+		"/home/wizek/Desktop/chrome-http___translate.google.com_#auto_en_tick.desktop",
+		"/home/wizek/Desktop/chrome-https___workflowy.com_.desktop",
+		"/home/wizek/.config/google-chrome/Profile 1/Extensions/biiammgklaefagjclmnlialkmaemifgo/2012.12.20.0_0/options.html",
+		"/home/wizek/.config/google-chrome/Profile 1/Extensions/biiammgklaefagjclmnlialkmaemifgo/2012.12.20.0_0/NOTICE",
+		"/home/wizek/.config/google-chrome/Default/Extension State/LOG",
+		"/home/wizek/.config/google-chrome/Default/Extension State/LOG.old",
+		"/home/wizek/.config/google-chrome/Default/Extension State/000730.sst",
+		"/home/wizek/.config/google-chrome/Profile 1/Extensions/biiammgklaefagjclmnlialkmaemifgo/2012.12.20.0_0/js/ui/options.js",
+		"/home/wizek/.config/google-chrome/Profile 1/Extensions/biiammgklaefagjclmnlialkmaemifgo/2012.12.20.0_0/js/ui/options_full.js",
+		"/home/wizek/.config/google-chrome/Profile 1/Extensions/biiammgklaefagjclmnlialkmaemifgo/2012.12.20.0_0/manifest.json",
+		"/home/wizek/.config/user-dirs.dirs",
+		"/home/wizek/Downloads/node-webkit-v0.3.6-linux-x64/style.css",
+		"/home/wizek/haskell/buildnrun",
+		"/home/wizek/Desktop/s2games_com-HoN_1.desktop",
+		"/home/wizek/gaems/FTL/FTL",
+		"/home/wizek/baby.hs",
+		"/home/wizek/Desktop/clearswap",
+		"/home/wizek/Downloads/node-webkit-v0.3.6-linux-x64/sleep/package.json",
+		"/usr/share/undistract-me/long-running.bash"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/wizek/sandbox/loader/",
+			"/home/wizek/sandbox/loader/lib",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"height",
+			"controller",
+			"factory",
+			"controller",
+			";",
+			"factory",
+			"operation",
+			"                      ",
+			"i\n          a(href=\"#\") vision\n          ul",
+			"+",
+			"p.dummy",
+			"!",
+			".",
+			"github",
+			": ",
+			"$base-color",
+			": ",
+			"link",
+			"expected",
+			"multipl",
+			"fade",
+			";",
+			"lastGetAt",
+			"setAt",
+			"lastGetAt",
+			"lastSetAt",
+			"setAt",
+			"getF",
+			"cachedGetFileFor",
+			"dependenciesOf",
+			"cachedGetFileFor",
+			"set_at",
+			"got_at",
+			"toEqual",
+			"readFile",
+			"nameParser",
+			"globa",
+			"globa.c",
+			"cl(",
+			"cl\\(",
+			"cl(\ncl(",
+			"cl(",
+			"cl",
+			"d",
+			"'depe",
+			"store[key]",
+			"dependenciesOf",
+			"dependenc",
+			"js",
+			"github.path",
+			"github",
+			"user",
+			"'",
+			"mockHttpReturns",
+			"getWithDeps",
+			"createInternalInjector",
+			"readFile",
+			"global.c",
+			"cbPapi",
+			"mockRequestResponse",
+			"dependenciesOf\\(",
+			"dependenciesOf",
+			"ext",
+			"expect(promise)",
+			"inj",
+			"test(",
+			"var p = promiseApiFromCbApi(cbApi)(",
+			"var p = promiseApiFromCbApi",
+			"var cbApi",
+			"var promiseApi",
+			"toThenEqual",
+			"yay",
+			"argument",
+			"failOfCbApi",
+			"successOfCbApi",
+			"promiseFromCb",
+			"\n",
+			"readFile",
+			"inameParser",
+			"com",
+			"\\bmodule\\(",
+			"module\\(",
+			"module",
+			"beforeEac",
+			"timers",
+			"Scheme",
+			" \"",
+			".js",
+			"memff",
+			"memffmmemff",
+			"memff",
+			"vison",
+			"<123.wizek+loadr@gmail.com>",
+			"# open question",
+			"open question",
+			"\\.get",
+			".ge",
+			"inject.ge",
+			"inject",
+			"ifPattern",
+			"<script",
+			"script",
+			"local",
+			"debug",
+			"debugg",
+			"--",
+			" -- ",
+			".\n",
+			"ifPatt",
+			"ifPattern",
+			"  ```",
+			"experi",
+			"#local",
+			"li\\b",
+			"li",
+			"discuss",
+			"quickStartGuide",
+			"cdn",
+			"my3",
+			"my2",
+			"my1",
+			"angular",
+			"load.aws",
+			" ]+`",
+			"CDN",
+			"(#CDN)",
+			"load.aws",
+			"quick"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$2	$1\\n",
+			"$1	$2\\n",
+			"$1\\t$2\\n",
+			"$1\\t$2",
+			"\\n$1\\t$2",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 982,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								326,
+								326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/js/app.js",
+					"settings":
+					{
+						"buffer_size": 1053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								766,
+								766
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/partials/_fooldal.html",
+					"settings":
+					{
+						"buffer_size": 290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							],
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/partials/_program.html",
+					"settings":
+					{
+						"buffer_size": 433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								433,
+								433
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/partials/_helyszin.html",
+					"settings":
+					{
+						"buffer_size": 18,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/css/app.styl",
+					"settings":
+					{
+						"buffer_size": 1047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								280,
+								280
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/data/events.json",
+					"settings":
+					{
+						"buffer_size": 611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								357,
+								357
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/wizek/haskell/oroklodes.hs",
+					"settings":
+					{
+						"buffer_size": 434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"auto_name": "module Main where",
+							"syntax": "Packages/Haskell/Haskell.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/partials/_kapcsolat.html",
+					"settings":
+					{
+						"buffer_size": 18,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 241.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 545.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app",
+				"js/app.js"
+			],
+			[
+				"docs",
+				"loader/views/docs.jade"
+			],
+			[
+				"",
+				"loader/node_modules/stylus/lib/functions/index.styl"
+			],
+			[
+				".styl",
+				"loader/node_modules/stylus/lib/functions/index.styl"
+			],
+			[
+				"stylus",
+				"loader/node_modules/stylus/bin/stylus"
+			],
+			[
+				"expap",
+				"loader/lib/expressApp.js"
+			],
+			[
+				".jade",
+				"loader/views/index.jade"
+			],
+			[
+				"mai",
+				"loader/lib/main.js"
+			],
+			[
+				"main",
+				"loader/lib/main.js"
+			],
+			[
+				"ma",
+				"loader/lib/main.js"
+			],
+			[
+				"exa",
+				"loader/lib/expressApp.js"
+			],
+			[
+				"rea",
+				"loader/README.md"
+			],
+			[
+				"rou",
+				"loader/lib/routes.js"
+			],
+			[
+				"mod",
+				"loader/lib/modules.js"
+			],
+			[
+				"angu",
+				"loader/packages/angular.js"
+			],
+			[
+				"jasmine1",
+				"jasmine-node/lib/jasmine-node/jasmine-1.3.1.js"
+			],
+			[
+				"h99",
+				"/home/wizek/haskell/h99.hs"
+			],
+			[
+				"inde",
+				"/home/wizek/Downloads/node-webkit-v0.3.6-linux-x64/sleep/index.html"
+			],
+			[
+				"htm",
+				"/home/wizek/Downloads/node-webkit-v0.3.6-linux-x64/sleep/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true
+}
