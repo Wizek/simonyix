@@ -1,16 +1,19 @@
-<div class="slider">
-  <div class="slide" ng-repeat="(i, slide) in slides" ng-show="i == curr.i">
-    <h1>{{slide.title}}</h1>
-    <p>{{slide.desc}}</p>
+<div class="centered-content background">
+  <div class="slider">
+    <div class="slide" ng-repeat="(i, slide) in slides" ng-show="i == curr.i">
+      <h1>{{slide.title}}</h1>
+      <p>{{slide.desc}}</p>
 
+    </div>
+    <a href="" ng-click="curr.i = curr.i - 1" class="arrow left">&lt;</a>
+    <a href="" ng-click="curr.i = curr.i + 1" class="arrow right">&gt;</a>
   </div>
-  <a href="" ng-click="curr.i = curr.i - 1" class="arrow left">&lt;</a>
-  <a href="" ng-click="curr.i = curr.i + 1" class="arrow right">&gt;</a>
 </div>
-
 <div class="footer">
-  <a class="unit" ng-repeat="pic in pics" href="{{pic.href}}">
-    <img ng-src="{{pic.imgSrc}}" alt="" class="pic">
-    <p class="desc">{{pic.desc}}</p>
-  </a>
+  <div class="centered-content">
+    <a class="unit" ng-repeat="pic in pics" href="{{pic.href}}">
+      <img ng-src="{{pic.imgSrc}}" alt="" class="pic">
+      <p class="desc">{{pic.desc}}</p>
+    </a>
+  </div>
 </div>

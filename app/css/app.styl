@@ -5,6 +5,7 @@
 
 body
   color white
+  background-color rgba(0, 0, 0, 0.8)
   font-family Helvetica
   // font-family xcxxx, serif
 
@@ -42,6 +43,12 @@ a
       margin 0 18px
       font-size 14pt
       line-height $header-height
+
+.centered-content
+  width 1000px
+  position: relative
+  margin 0 auto
+  // height 100%
 
 .slider
   position: absolute
@@ -86,8 +93,10 @@ a
     width 200px
     // height 200px
 
-[ng-view]
+.background
   background url('../img/image.png')
+  height 100%
+[ng-view]
   position absolute
   top $header-height
   bottom 0

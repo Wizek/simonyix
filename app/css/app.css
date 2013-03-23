@@ -5,6 +5,7 @@
 }
 body {
   color: #fff;
+  background-color: rgba(0,0,0,0.8);
   font-family: Helvetica;
 }
 a {
@@ -42,6 +43,11 @@ a {
   margin: 0 18px;
   font-size: 14pt;
   line-height: 150px;
+}
+.centered-content {
+  width: 1000px;
+  position: relative;
+  margin: 0 auto;
 }
 .slider {
   position: absolute;
@@ -90,8 +96,11 @@ a {
 .footer .unit .desc {
   font-size: 10pt;
 }
-[ng-view] {
+.background {
   background: url("../img/image.png");
+  height: 100%;
+}
+[ng-view] {
   position: absolute;
   top: 150px;
   bottom: 0;
