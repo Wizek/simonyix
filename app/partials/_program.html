@@ -2,7 +2,7 @@
   <div class="events-page">
     <ul class="rooms">
       <li class="room" ng-repeat="(eventType, room) in events">
-        <a href="" ng-click="selected.name = eventType">{{eventType}}</a>
+        <a href="#/program/{{eventType}}">{{eventType}}</a>
       </li>
     </ul>
     <table ng-repeat="(eventType, room) in events" ng-show="eventType == selected.name">

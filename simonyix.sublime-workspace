@@ -4,8 +4,24 @@
 		"selected_items":
 		[
 			[
+				"$",
+				"$height"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
 				"pos",
-				"pos:r	position:relative"
+				"pos	position"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"font",
+				"font-weight"
 			],
 			[
 				"ta",
@@ -391,7 +407,7 @@
 			"file": "app/index.html",
 			"settings":
 			{
-				"buffer_size": 982,
+				"buffer_size": 1208,
 				"line_ending": "Unix"
 			}
 		},
@@ -399,7 +415,23 @@
 			"file": "app/js/app.js",
 			"settings":
 			{
-				"buffer_size": 1053,
+				"buffer_size": 1524,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/data/slides.json",
+			"settings":
+			{
+				"buffer_size": 504,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/data/pics.json",
+			"settings":
+			{
+				"buffer_size": 249,
 				"line_ending": "Unix"
 			}
 		},
@@ -407,7 +439,7 @@
 			"file": "app/partials/_fooldal.html",
 			"settings":
 			{
-				"buffer_size": 290,
+				"buffer_size": 618,
 				"line_ending": "Unix"
 			}
 		},
@@ -415,7 +447,7 @@
 			"file": "app/partials/_program.html",
 			"settings":
 			{
-				"buffer_size": 433,
+				"buffer_size": 512,
 				"line_ending": "Unix"
 			}
 		},
@@ -423,7 +455,7 @@
 			"file": "app/partials/_helyszin.html",
 			"settings":
 			{
-				"buffer_size": 18,
+				"buffer_size": 69,
 				"line_ending": "Unix"
 			}
 		},
@@ -431,32 +463,15 @@
 			"file": "app/css/app.styl",
 			"settings":
 			{
-				"buffer_size": 1047,
+				"buffer_size": 2105,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/data/events.json",
-			"settings":
-			{
-				"buffer_size": 611,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/wizek/haskell/oroklodes.hs",
-			"settings":
-			{
-				"buffer_size": 434,
-				"line_ending": "Unix",
-				"name": "module Main where"
 			}
 		},
 		{
 			"file": "app/partials/_kapcsolat.html",
 			"settings":
 			{
-				"buffer_size": 18,
+				"buffer_size": 69,
 				"line_ending": "Unix"
 			}
 		}
@@ -609,6 +624,7 @@
 	},
 	"file_history":
 	[
+		"/home/wizek/sandbox/simonyix/app/data/events.json",
 		"/home/wizek/sandbox/simonyix/app/css/normalize.css",
 		"/home/wizek/sandbox/simonyix/app/partials/_kapcsolat.html",
 		"/home/wizek/sandbox/loader/views/doc.jade",
@@ -735,8 +751,7 @@
 		"/home/wizek/gaems/FTL/FTL",
 		"/home/wizek/baby.hs",
 		"/home/wizek/Desktop/clearswap",
-		"/home/wizek/Downloads/node-webkit-v0.3.6-linux-x64/sleep/package.json",
-		"/usr/share/undistract-me/long-running.bash"
+		"/home/wizek/Downloads/node-webkit-v0.3.6-linux-x64/sleep/package.json"
 	],
 	"find":
 	{
@@ -757,6 +772,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"content",
+			"Est vel dolores blanditiis cupiditate quas rerum amet quasi itaque nisi autem inventore delectus ab debitis nemo accusamus quis beatae. Sapiente at.",
 			"height",
 			"controller",
 			"factory",
@@ -882,9 +899,7 @@
 			"load.aws",
 			" ]+`",
 			"CDN",
-			"(#CDN)",
-			"load.aws",
-			"quick"
+			"(#CDN)"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -908,7 +923,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 8,
 			"sheets":
 			[
 				{
@@ -916,15 +931,15 @@
 					"file": "app/index.html",
 					"settings":
 					{
-						"buffer_size": 982,
+						"buffer_size": 1208,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								326,
-								326
+								734,
+								734
 							]
 						],
 						"settings":
@@ -944,15 +959,15 @@
 					"file": "app/js/app.js",
 					"settings":
 					{
-						"buffer_size": 1053,
+						"buffer_size": 1524,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								766,
-								766
+								3,
+								3
 							]
 						],
 						"settings":
@@ -962,34 +977,30 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 54.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "app/partials/_fooldal.html",
+					"file": "app/data/slides.json",
 					"settings":
 					{
-						"buffer_size": 290,
+						"buffer_size": 504,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3,
-								3
-							],
-							[
-								24,
-								24
+								501,
+								501
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -999,23 +1010,23 @@
 				},
 				{
 					"buffer": 3,
-					"file": "app/partials/_program.html",
+					"file": "app/data/pics.json",
 					"settings":
 					{
-						"buffer_size": 433,
+						"buffer_size": 249,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								433,
-								433
+								249,
+								249
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1025,18 +1036,18 @@
 				},
 				{
 					"buffer": 4,
-					"file": "app/partials/_helyszin.html",
+					"file": "app/partials/_fooldal.html",
 					"settings":
 					{
-						"buffer_size": 18,
+						"buffer_size": 618,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								17,
-								17
+								39,
+								39
 							]
 						],
 						"settings":
@@ -1051,18 +1062,72 @@
 				},
 				{
 					"buffer": 5,
-					"file": "app/css/app.styl",
+					"file": "app/partials/_program.html",
 					"settings":
 					{
-						"buffer_size": 1047,
+						"buffer_size": 512,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								280,
-								280
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/partials/_helyszin.html",
+					"settings":
+					{
+						"buffer_size": 69,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/css/app.styl",
+					"settings":
+					{
+						"buffer_size": 2105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
 							]
 						],
 						"settings":
@@ -1078,77 +1143,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "app/data/events.json",
-					"settings":
-					{
-						"buffer_size": 611,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								357,
-								357
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/home/wizek/haskell/oroklodes.hs",
-					"settings":
-					{
-						"buffer_size": 434,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								150,
-								150
-							]
-						],
-						"settings":
-						{
-							"auto_name": "module Main where",
-							"syntax": "Packages/Haskell/Haskell.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
 					"buffer": 8,
 					"file": "app/partials/_kapcsolat.html",
 					"settings":
 					{
-						"buffer_size": 18,
+						"buffer_size": 69,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								18,
-								18
+								65,
+								65
 							]
 						],
 						"settings":

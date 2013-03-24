@@ -2,10 +2,11 @@
 
 
 // Declare app level module which depends on filters, and services
-angular.module('myApp', ['myApp.filters', 'myApp.services', 'myApp.directives']).
+angular.module('myApp', []).
   config(['$routeProvider', function($routeProvider) {
     $routeProvider.when('/', {templateUrl: 'partials/_fooldal.html', controller: 'MainCtrl'})
     $routeProvider.when('/program', {templateUrl: 'partials/_program.html', controller: 'EventsCtrl'})
+    $routeProvider.when('/program/:eventType', {templateUrl: 'partials/_program.html', controller: 'EventsCtrl'})
     $routeProvider.when('/helyszin', {templateUrl: 'partials/_helyszin.html', controller: 'PlaceCtrl'})
     $routeProvider.when('/kapcsolat', {templateUrl: 'partials/_kapcsolat.html', controller: 'ContactCtrl'})
     $routeProvider.otherwise({redirectTo: '/'})
@@ -23,8 +24,9 @@ angular.module('myApp', ['myApp.filters', 'myApp.services', 'myApp.directives'])
     $scope.curr = {i: 0}
 
     $scope.$watch('curr.i', function(n, o) {
+      if (!$scope.slides) { return }
+
       var last = $scope.slides.length - 1
-      // console.log(last, o, n)
       if (n > last) {
         return $scope.curr.i = 0
       }
@@ -34,11 +36,19 @@ angular.module('myApp', ['myApp.filters', 'myApp.services', 'myApp.directives'])
     })
   })
 
-  .controller('EventsCtrl', function($scope, $http) {
+  .controller('EventsCtrl', function($scope, $http, $routeParams, $location) {
+    var selected = {name: $routeParams.eventType}
+
     $http.get('/data/events.json').then(function(res) {
       $scope.events = res.data
-      $scope.selected = {name: Object.keys(res.data)[0]}
+
+      if (!selected.name) {
+        $location.path('/program/'+Object.keys(res.data)[0])
+        // selected.name = Object.keys(res.data)[0]
+      }
     })
+
+    $scope.selected = selected
   })
 
   .controller('PlaceCtrl', function($scope) {
